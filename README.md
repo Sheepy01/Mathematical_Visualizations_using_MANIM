@@ -1,1 +1,1 @@
-# MIAM_Mathematical_Visualizations
+# MANIM_Mathematical_Visualizations
